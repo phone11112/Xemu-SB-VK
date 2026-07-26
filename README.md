@@ -101,12 +101,16 @@ Run with:
 
 ## Other helpful links
 
-* https://github.com/Ryzee119/ogx360_t4/
+* https://github.com/Ryzee119/ogx360_t4/ - Xbox Gamepad and SB Controller Emulation with Teensy 4.1
 
-* https://github.com/SantiagoSaldana/SBC
+* https://github.com/SantiagoSaldana/SBC - Another driver project for SB Controller
 
-* https://github.com/faha223/XboxPeripheralLibusbTools/
+* https://github.com/faha223/XboxPeripheralLibusbTools/ - USB Drivers for SB Controller for USB passthrough
 
-* https://xemu.app/docs/dev/building-from-source/
+* https://xemu.app/docs/dev/building-from-source/ - Original XEMU build instructions
 
-* https://github.com/dmadison/ArduinoXInput_Teensy
+* https://github.com/dmadison/ArduinoXInput_Teensy - Xbox Gamepad Emulation with Teensy
+
+* https://github.com/wiredopposite/tusb_gamepad - Misc Gamepad Emulation with PICO
+
+* https://gp2040-ce.info/ - Misc Gamepad Emulation with PICO
