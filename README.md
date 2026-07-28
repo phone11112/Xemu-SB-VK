@@ -20,17 +20,20 @@ This project is part of my Steel Battalion Newcomer guide which focuses on the c
 **To Do**
 * Add all input-rebinding to the non-vulkan branch version
 * Make non-vulkan and vulkan have the same hotkeys
-* Impliment options for Gear Shifter and Tuner Dial to be changed to invididual selectors instead of incremental buttons.
-* Add Full Mouse Rebinding, Including Mousewheel.
+* Impliment options for Gear Shifter and Tuner Dial to be changed to individual selectors instead of incremental buttons.
+* Add Full Mouse Rebinding, Including MouseWheel.
 * Add Hotkey Rebinding
 * Add predefined keyboard maps for both Full Keyboards and 80% Keyboards.
 * Including instructions for people who want to build on their own.
+* Pressure indications
+* 
 
 **Look Into**
 * Light event feedback for RGB keyboards and other devices
 * Implimentation of joystick additions that FluffyStuff added in his build
 * See if Keyboard+Gamepad combination play is possible without needing a rebinder
 * Proper documentation for interactions with libusb: https://github.com/faha223/XboxPeripheralLibusbTools/
+
 
 
 **Bugs**
@@ -86,6 +89,10 @@ docker run --rm -v $PWD/Xemu-SB-NVK:/xemu -w /xemu \
 Run with:
 
 `./dist/xemu`
+
+
+# Commands within Xemu
+* device_add usb-host,vendorid=0x0a7b,productid=0xd000,port=1.3
 
 ## Notes on Adding Settings to the Menu
 
