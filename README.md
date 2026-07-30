@@ -5,6 +5,8 @@ While adding features for Steel Battalion, the ultimate goal of this is to creat
 
 This project is part of my Steel Battalion Newcomer guide which focuses on the controller. I am working with SpecialFred.
 
+As of last Sunday (7/26/26), we are also collaborating with Newerest and his [PenguinBox VR Project](https://github.com/PenguinVRLab/PenguinBox) 
+
 **Limitations**
 * For OG Steel Battalion performance is not consistent, some people have run into the only the first 4 levels being consistently playable, while others have been able to play most of the game.
 * Struggling with LoC optimization
