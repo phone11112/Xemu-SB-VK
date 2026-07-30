@@ -1,11 +1,11 @@
 # Intro
-Fork of faha223/xemu 
+Fork of [faha223's xemu project ](https://github.com/faha223/xemu/tree/usb_passthrough_vk)
 
 While adding features for Steel Battalion, the ultimate goal of this is to create two seamless versions of xemu fork of usb_passthrough, one that uses vulkan (VK) and one that doesn't use vulkan (NVK).
 
 This project is part of my Steel Battalion Newcomer guide which focuses on the controller. I am working with SpecialFred.
 
-As of last Sunday (7/26/26), we are also collaborating with Newerest and his [PenguinBox VR Project](https://github.com/PenguinVRLab/PenguinBox) 
+As of last Sunday (7/26/26), we are also collaborating with Newerest and his [PenguinBox VR Project](https://github.com/PenguinVRLab/PenguinBox) ([SB Fork](https://github.com/PenguinVRLab/PenguinBox/tree/sb-loc-performance-campaign))
 
 **Limitations**
 * For OG Steel Battalion performance is not consistent, some people have run into the only the first 4 levels being consistently playable, while others have been able to play most of the game.
