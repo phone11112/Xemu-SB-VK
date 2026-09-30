@@ -125,3 +125,4 @@ Run with:
 * https://github.com/PenguinVRLab/PenguinBox/releases/tag/win64-preview-20260726 - PenguinBox Xemu fork with extremely good performance
 
 * https://gp2040-ce.info/ - Misc Gamepad Emulation with PICO
+.
